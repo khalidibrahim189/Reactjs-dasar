@@ -1,0 +1,21 @@
+.box-stock {
+  width: 300px;
+  display: inline-block;
+  height: auto;
+  border: 1px solid gray;
+  margin: 10px;
+  padding: 10px;
+}
+
+.box-stock img {
+  width: 300px;
+  height: 200px;
+}
+
+.btn-klik {
+  border: none;
+  width: 100px;
+  background-color: #000;
+  padding: 10px;
+  color: #fff !important;
+}
